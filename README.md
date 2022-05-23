@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harpaul
 - 👀 Software Engineer @ 100Devs
-- HTML, CSS, Javascript
+- HTML, CSS, Javascript, OOP, Node
 
 <!---
 HSPandy/HSPandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
