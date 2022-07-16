@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harpaul
-- 👀 Software Engineer @ 100Devs
+- 👀 Software Developer @ 100Devs
 - HTML, CSS, Javascript, OOP, Node
 
 <!---
